@@ -54,7 +54,7 @@ p,ul{
     padding: 1.0rem;
 }
 ul li:nth-child(2n+1){
-    background: #222;
+    background: inherit;
     color: #fff;
     padding: 0.5rem;
 }
